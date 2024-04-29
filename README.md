@@ -47,7 +47,7 @@ I've worked on various data science projects covering areas such as:
 - Shopping List App
 - Bot Buddy
 
-You can explore my projects on [my GitHub repository]([link-to-github-repo](https://github.com/Code-Explorer97?tab=repositories))!
+You can explore my projects on [[my GitHub repository](https://github.com/Code-Explorer97?tab=repositories)]([link-to-github-repo])!
 
 ## Let's Connect
 
