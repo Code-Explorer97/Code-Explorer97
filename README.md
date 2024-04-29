@@ -24,12 +24,12 @@ I'm a passionate and driven Data Science student at R A Podar College, with a ke
 - Matplotlib
 - Pandas
 - NumPy
-- Seaborn
+
 
 ### Machine Learning:
 - Scikit-learn
 - TensorFlow
-- Keras
+
 
 ### Other Skills:
 - Statistical Analysis
@@ -47,7 +47,7 @@ I've worked on various data science projects covering areas such as:
 - Shopping List App
 - Bot Buddy
 
-You can explore my projects on [my GitHub repository](link-to-github-repo)!
+You can explore my projects on [my GitHub repository]([link-to-github-repo](https://github.com/Code-Explorer97?tab=repositories))!
 
 ## Let's Connect
 
