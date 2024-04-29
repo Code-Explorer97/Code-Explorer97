@@ -24,10 +24,12 @@ I'm a passionate and driven Data Science student at R A Podar College, with a ke
 - Matplotlib
 - Pandas
 - NumPy
+- Seaborn
 
 ### Machine Learning:
 - Scikit-learn
 - TensorFlow
+- Keras
 
 ### Other Skills:
 - Statistical Analysis
@@ -39,24 +41,19 @@ I'm a passionate and driven Data Science student at R A Podar College, with a ke
 
 ## Projects
 
-Here are some of the projects I've worked on:
+I've worked on various data science projects covering areas such as:
 
-- [Shopping List App](link)
-- [Stock Prediction Model](link) 
-- [Bot Buddy](link)
+- Stock Prediction Model
+- Shopping List App
+- Bot Buddy
 
-You can explore more of my projects on my GitHub repository!
+You can explore my projects on [my GitHub repository](link-to-github-repo)!
 
 ## Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/analytical-kaif74/](link)
-- Email: [siddiquikf97@gmail.com](mailto:youremail@example.com)
-- Website: [https://siddiquianalytics.netlify.app/?#portfolio](link)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/analytical-kaif74/)
+- Email: [siddiquikf97@gmail.com](mailto:siddiquikf97@gmail.com)
+- Website: [Portfolio](https://siddiquianalytics.netlify.app/?#portfolio)
 
 Feel free to connect with me if you're interested in collaboration, have any questions, or just want to chat about data science and technology!
 
-
-<!---
-Code-Explorer97/Code-Explorer97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
