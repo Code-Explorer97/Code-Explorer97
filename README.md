@@ -30,15 +30,6 @@ I'm a passionate and driven Data Science student at R A Podar College, with a ke
 - Scikit-learn
 - TensorFlow
 
-
-### Other Skills:
-- Statistical Analysis
-- Data Cleaning and Preprocessing
-- Data Mining
-- Exploratory Data Analysis
-- Predictive Modeling
-- Feature Engineering
-
 ## Projects
 
 I've worked on various data science projects covering areas such as:
